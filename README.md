@@ -38,7 +38,7 @@ espero que te sirva todo el contenido que encuentres. Nos vemos ahí
 
 #
 
-### 📺 Latest YouTube Videos
+### 📺 Ultimos videos en YouTube
 
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->

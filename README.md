@@ -41,12 +41,12 @@ espero que te sirva todo el contenido que encuentres. Nos vemos ahí
 ### 📺 Ultimos videos en YouTube
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Un clásico 🤣](https://ytcards.demolab.com/?id=hFq9Y4ov_Ng&title=Un+cl%C3%A1sico+%F0%9F%A4%A3&lang=en&timestamp=1753299855&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Un clásico 🤣")](https://www.youtube.com/shorts/hFq9Y4ov_Ng)
 [![Yo y las contraseñas 😆](https://ytcards.demolab.com/?id=yDIiFrmDJvo&title=Yo+y+las+contrase%C3%B1as+%F0%9F%98%86&lang=en&timestamp=1753152016&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Yo y las contraseñas 😆")](https://www.youtube.com/shorts/yDIiFrmDJvo)
 [![Dark mode vs Light mode](https://ytcards.demolab.com/?id=XFznv0lLJvY&title=Dark+mode+vs+Light+mode&lang=en&timestamp=1753151151&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dark mode vs Light mode")](https://www.youtube.com/shorts/XFznv0lLJvY)
 [![Guías de lenguajes de programación #programminglanguages #softwaredevelopment](https://ytcards.demolab.com/?id=d3AEaUimGrk&title=Gu%C3%ADas+de+lenguajes+de+programaci%C3%B3n+%23programminglanguages+%23softwaredevelopment&lang=en&timestamp=1751657417&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Guías de lenguajes de programación #programminglanguages #softwaredevelopment")](https://www.youtube.com/shorts/d3AEaUimGrk)
 [![Instalar y ejecutar Deepseek en local #ai #deepseek](https://ytcards.demolab.com/?id=XpuvERMCOnk&title=Instalar+y+ejecutar+Deepseek+en+local+%23ai+%23deepseek&lang=en&timestamp=1747665999&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Instalar y ejecutar Deepseek en local #ai #deepseek")](https://www.youtube.com/shorts/XpuvERMCOnk)
 [![Personalizar temas en phpMyAdmin](https://ytcards.demolab.com/?id=O_3vo0RfwHw&title=Personalizar+temas+en+phpMyAdmin&lang=en&timestamp=1747537343&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Personalizar temas en phpMyAdmin")](https://www.youtube.com/shorts/O_3vo0RfwHw)
-[![Como personalizar phpMyAdmin](https://ytcards.demolab.com/?id=PSwwllJe-gM&title=Como+personalizar+phpMyAdmin&lang=en&timestamp=1747522218&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Como personalizar phpMyAdmin")](https://www.youtube.com/watch?v=PSwwllJe-gM)
 <!-- END YOUTUBE-CARDS -->
 
 #

@@ -41,12 +41,12 @@ espero que te sirva todo el contenido que encuentres. Nos vemos ahí
 ### 📺 Ultimos videos en YouTube
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Cosas que pasan...](https://ytcards.demolab.com/?id=2JZ3SQwioWA&title=Cosas+que+pasan...&lang=en&timestamp=1766263541&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Cosas que pasan...")](https://www.youtube.com/shorts/2JZ3SQwioWA)
 [![Nueva forma de hacer trampa 🙄](https://ytcards.demolab.com/?id=n-KQTB5zj4c&title=Nueva+forma+de+hacer+trampa+%F0%9F%99%84&lang=en&timestamp=1762443693&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Nueva forma de hacer trampa 🙄")](https://www.youtube.com/shorts/n-KQTB5zj4c)
 [![Hay mucha diferencia](https://ytcards.demolab.com/?id=Dxez64FkFfY&title=Hay+mucha+diferencia&lang=en&timestamp=1762401816&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Hay mucha diferencia")](https://www.youtube.com/shorts/Dxez64FkFfY)
 [![A la IA le gusta el Espagueti](https://ytcards.demolab.com/?id=dmrR7B0IZa8&title=A+la+IA+le+gusta+el+Espagueti&lang=en&timestamp=1762401697&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "A la IA le gusta el Espagueti")](https://www.youtube.com/shorts/dmrR7B0IZa8)
 [![Fuentes para programadores](https://ytcards.demolab.com/?id=A_EqEwS_XEg&title=Fuentes+para+programadores&lang=en&timestamp=1761581110&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Fuentes para programadores")](https://www.youtube.com/shorts/A_EqEwS_XEg)
 [![Herramienta de IA para programadores](https://ytcards.demolab.com/?id=Cx-3Mw6DVi8&title=Herramienta+de+IA+para+programadores&lang=en&timestamp=1759756223&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Herramienta de IA para programadores")](https://www.youtube.com/shorts/Cx-3Mw6DVi8)
-[![Como estructurar un template y manejo de rutas con Laravel 🐘](https://ytcards.demolab.com/?id=Ue-of1zMJpU&title=Como+estructurar+un+template+y+manejo+de+rutas+con+Laravel+%F0%9F%90%98&lang=en&timestamp=1759348392&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Como estructurar un template y manejo de rutas con Laravel 🐘")](https://www.youtube.com/watch?v=Ue-of1zMJpU)
 <!-- END YOUTUBE-CARDS -->
 
 #

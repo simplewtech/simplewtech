@@ -33,12 +33,7 @@ espero que te sirva todo el contenido que encuentres. Nos vemos ahí
 ### 📺 Ultimos videos en YouTube
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Si pasa..](https://ytcards.demolab.com/?id=AggQwVZEzCw&title=Si+pasa..&lang=en&timestamp=1766524890&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Si pasa..")](https://www.youtube.com/shorts/AggQwVZEzCw)
-[![ideas que asustan](https://ytcards.demolab.com/?id=uXlKAmeuR94&title=ideas+que+asustan&lang=en&timestamp=1766443017&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ideas que asustan")](https://www.youtube.com/shorts/uXlKAmeuR94)
-[![Cosas que pasan...](https://ytcards.demolab.com/?id=2JZ3SQwioWA&title=Cosas+que+pasan...&lang=en&timestamp=1766263541&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Cosas que pasan...")](https://www.youtube.com/shorts/2JZ3SQwioWA)
-[![Nueva forma de hacer trampa 🙄](https://ytcards.demolab.com/?id=n-KQTB5zj4c&title=Nueva+forma+de+hacer+trampa+%F0%9F%99%84&lang=en&timestamp=1762443693&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Nueva forma de hacer trampa 🙄")](https://www.youtube.com/shorts/n-KQTB5zj4c)
-[![Hay mucha diferencia](https://ytcards.demolab.com/?id=Dxez64FkFfY&title=Hay+mucha+diferencia&lang=en&timestamp=1762401816&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Hay mucha diferencia")](https://www.youtube.com/shorts/Dxez64FkFfY)
-[![A la IA le gusta el Espagueti](https://ytcards.demolab.com/?id=dmrR7B0IZa8&title=A+la+IA+le+gusta+el+Espagueti&lang=en&timestamp=1762401697&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "A la IA le gusta el Espagueti")](https://www.youtube.com/shorts/dmrR7B0IZa8)
+
 <!-- END YOUTUBE-CARDS -->
 
 #

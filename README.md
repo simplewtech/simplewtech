@@ -33,12 +33,7 @@ espero que te sirva todo el contenido que encuentres. Nos vemos ahí
 ### 📺 Ultimos videos en YouTube
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Fuentes para programadores](https://ytcards.demolab.com/?id=A_EqEwS_XEg&title=Fuentes+para+programadores&lang=en&timestamp=1761581110&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Fuentes para programadores")](https://www.youtube.com/shorts/A_EqEwS_XEg)
-[![Herramienta de IA para programadores](https://ytcards.demolab.com/?id=Cx-3Mw6DVi8&title=Herramienta+de+IA+para+programadores&lang=en&timestamp=1759756223&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Herramienta de IA para programadores")](https://www.youtube.com/shorts/Cx-3Mw6DVi8)
-[![Como estructurar un template y manejo de rutas con Laravel 🐘](https://ytcards.demolab.com/?id=Ue-of1zMJpU&title=Como+estructurar+un+template+y+manejo+de+rutas+con+Laravel+%F0%9F%90%98&lang=en&timestamp=1759348392&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Como estructurar un template y manejo de rutas con Laravel 🐘")](https://www.youtube.com/watch?v=Ue-of1zMJpU)
-[![Guías de lenguajes de programación #programminglanguages #softwaredevelopment](https://ytcards.demolab.com/?id=d3AEaUimGrk&title=Gu%C3%ADas+de+lenguajes+de+programaci%C3%B3n+%23programminglanguages+%23softwaredevelopment&lang=en&timestamp=1751657417&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Guías de lenguajes de programación #programminglanguages #softwaredevelopment")](https://www.youtube.com/shorts/d3AEaUimGrk)
-[![Instalar y ejecutar Deepseek en local #ai #deepseek](https://ytcards.demolab.com/?id=XpuvERMCOnk&title=Instalar+y+ejecutar+Deepseek+en+local+%23ai+%23deepseek&lang=en&timestamp=1747665999&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Instalar y ejecutar Deepseek en local #ai #deepseek")](https://www.youtube.com/shorts/XpuvERMCOnk)
-[![Personalizar temas en phpMyAdmin](https://ytcards.demolab.com/?id=O_3vo0RfwHw&title=Personalizar+temas+en+phpMyAdmin&lang=en&timestamp=1747537343&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Personalizar temas en phpMyAdmin")](https://www.youtube.com/shorts/O_3vo0RfwHw)
+
 <!-- END YOUTUBE-CARDS -->
 
 #
